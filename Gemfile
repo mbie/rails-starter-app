@@ -46,7 +46,7 @@ gem 'less-rails'
 gem 'sass-rails', '~> 4.0.0'
 gem 'therubyracer'
 gem 'turbolinks'
-gem 'twitter-bootstrap-rails', github: 'diowa/twitter-bootstrap-rails', branch: 'fontawesome-3.2.1'
+# gem 'twitter-bootstrap-rails', github: 'diowa/twitter-bootstrap-rails', branch: 'fontawesome-3.2.1'
 gem 'uglifier', '>= 1.3.0'
 
 group :development, :test do
